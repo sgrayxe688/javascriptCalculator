@@ -1,0 +1,18 @@
+.main{
+    width: 300px;
+    border: 1px solid black;
+    margin-left: calc(50% - 150px)
+}
+.height{
+    height: 100px
+}
+.flex{
+    display: flex;
+    flex-flow: row wrap;
+}
+.size{
+    width: calc(298px / 4);
+}
+.blank{
+    background-color: gray;
+}
